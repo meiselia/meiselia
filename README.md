@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm passionate about exploring **Artificial Intell
 
 ## 🛠 Skills & Tools  
 💻 **Programming:** Python (NumPy, Pandas, Scikit-Learn), R, SQL  
-📊 **Data Visualization:** Matplotlib, Seaborn  
-🤖 **Machine Learning:** Supervised & Unsupervised Learning, Deep Learning (PyTorch, Tensorflow(learning))  
+📊 **Data Visualization:** Tableau, Power BI (still learn)  
+🤖 **Machine Learning:** Supervised & Unsupervised Learning, Deep Learning (PyTorch, Tensorflow(on learning))  
 📜 **Notebooks & Tools:** Jupyter, Google Colab, VS Code  
 
 ---
